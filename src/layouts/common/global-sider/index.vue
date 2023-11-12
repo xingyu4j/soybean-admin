@@ -17,6 +17,6 @@ const isVerticalMix = computed(() => theme.layout.mode === 'vertical-mix');
 
 <style scoped>
 .global-sider {
-  box-shadow: 2px 0 8px 0 rgb(29 35 41 / 5%);
+  box-shadow: 2px 0 8px 0 rgba(29, 35, 41, 0.05);
 }
 </style>

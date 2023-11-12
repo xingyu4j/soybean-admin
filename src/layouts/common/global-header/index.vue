@@ -58,6 +58,6 @@ const showButton = import.meta.env.PROD && import.meta.env.VITE_VERCEL !== 'Y';
 
 <style scoped>
 .global-header {
-  box-shadow: 0 1px 2px rgb(0 21 41 / 8%);
+  box-shadow: 0 1px 2px rgba(0, 21, 41, 0.08);
 }
 </style>
